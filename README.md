@@ -4,6 +4,14 @@ A highly available web application on AWS using Application Load Balancer and Au
 
 ## 🏗️ Architecture
 
+## 📊 Application in Action
+
+### Working Application
+![Application Running](images/app-running1.png)
+![Application Running](images/app-running2.png)
+
+
+
 - **VPC** with public and private subnets in 2 Availability Zones
 - **Application Load Balancer** for traffic distribution
 - **Auto Scaling Group** with 2-4 EC2 instances
