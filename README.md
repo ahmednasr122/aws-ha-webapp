@@ -3,6 +3,7 @@
 A highly available web application on AWS using Application Load Balancer and Auto Scaling Group.
 
 ## 🏗️ Architecture
+![Architecture Diagram](images/architecture.png)
 
 ## 📊 Application in Action
 
