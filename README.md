@@ -20,16 +20,10 @@ A highly available web application on AWS using Application Load Balancer and Au
 
 ## 🚀 Quick Start
 
-### Option 1: AWS Console (Manual)
+###  AWS Console (Manual)
 See [DEPLOYMENT.md](DEPLOYMENT.md) for step-by-step instructions.
 
-### Option 2: CloudFormation (Automated)
-```bash
-aws cloudformation create-stack \
-  --stack-name ha-webapp \
-  --template-body file://cloudformation-template.yaml \
-  --parameters ParameterKey=KeyName,ParameterValue=your-key-name
-```
+
 
 ## 📊 Features
 
