@@ -15,7 +15,7 @@ A highly available web application on AWS using Application Load Balancer and Au
 ###  AWS Console (Manual)
 See [DEPLOYMENT.md](DEPLOYMENT.md) for step-by-step instructions.
 
-```
+
 
 ## 📊 Features
 
